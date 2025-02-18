@@ -1,10 +1,10 @@
-package zhome;
+package days12;
 
 import java.util.Scanner;
 
-public class 낙서장 {
+public class Ex06 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    	Scanner sc = new Scanner(System.in);
         int year, month;
 
         System.out.printf("> year, month input ? ");
