@@ -7,12 +7,12 @@ package days03;
  * @content
  * 
  */
-	public class Ex07 {
+public class Ex07 {
 
 	public static void main(String[] args) {
 		/*
-		 * [		연산자 	( operator )
-		 * 		1. 정의 : 연살을 수행하는 기호
+* [		연산자 	( operator )
+		 * 		1. 정의 : 연산을 수행하는 기호
 		 * 			예) + -  / 등등
 		 * 		2. 		피연산자 	( operand) : 연산의 대상
 		 * 		2 + 5
@@ -32,7 +32,7 @@ package days03;
 		 * 			논리연산자					Ex07_04	
 		 * 			대입연산자					Ex07_05
 		 * 			조건연산자		?:			Ex07_06
-		 * 			등등
+		 * 			등등		 
 		 * 			
 		 * 		 
 		 */

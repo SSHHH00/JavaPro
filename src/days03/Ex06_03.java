@@ -21,7 +21,6 @@ public class Ex06_03 {
 		 * long I = i;					int(기본데이터타입)에서 
 		 * 								Integer(객체)로 자동형변환
 		 * 								Integer.parseInt() → 문자열을 숫자로 변환하는 메서드
-
 		 * 
 		 * + 덧셈 연산자, 문자열 연결 연산자
 		 * ( 3	+	5 ) * 2	( ) 최우선 연산자

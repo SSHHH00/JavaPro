@@ -11,7 +11,7 @@ package days03;
 public class EX06 {
 
 	public static void main(String[] args) {
-		//Byte.parseBute("90") -> 90
+		//Byte.parseByte("90") -> 90
 		// int 가장 큰 2,147,483,647
 		//long 	" 	:
 		
@@ -25,7 +25,7 @@ public class EX06 {
 		//byte - > 	Byte
 		//기본형		래퍼클래스
 		
-//		double. kor = Double.parseDouble(strkor);
+		double kor2 = Double.parseDouble(strkor);
 		
 		// long	->	Long
 		// Short -> Short

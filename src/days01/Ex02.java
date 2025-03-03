@@ -13,7 +13,7 @@ package days01;
 	}
 		/*
 		 * 1. 자바는 '객체 지향적 프로그램 언어' 이다.
-		 * 			object Oriented programming
+		 * 			Object Oriented programming
 		 * 			( OOP )
 		 * 		예) 완성된 프로그램
 		 *			완성된 조립컴퓨터 = 부품+부품+부품+...

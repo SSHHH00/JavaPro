@@ -12,6 +12,9 @@ public class Graphic2D {
 		
 	}
 
+	public static void drawLine(int i, String string) {
+	}
+
 }
  
 

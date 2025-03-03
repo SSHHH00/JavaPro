@@ -27,7 +27,7 @@ public class Ex01 {
 //			//이진수 형태를 문자로 반환하는
 //			System.out.printf("%08d",Integer.parseInt(b) );
 //			
-			System.out.println(Integer.toOctalString(15) );		//8진수문자열
+			System.out.println("8진수문자열 : "+Integer.toOctalString(15) );		//8진수문자열
 			System.out.println(Integer.toHexString(15) );		//16진수문장열
 			
 		
